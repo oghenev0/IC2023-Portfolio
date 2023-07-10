@@ -1,8 +1,81 @@
 .mainBody {
-    background-image: url(images/background.png);
+    background-image: url("images/background.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 }
+/* Top Row */
+.toprow {
+    /* background-color: pink; */
+    display: flex;
+}
+.albums1 {
+    /* background-color: lightgreen; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    width: 300px;
+}
+.album1-img {
+    background-image: url("images/pnd.album.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 150px;
+}
+.album1-img1 {
+    background-image: url("images/summer.walker.album.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 150px;
+}
+.youtubeVid {
+    /* background-color: lightcoral; */
+    /* width: 50%; */
+    margin: 0;
+    padding: 100px;
+    padding-top: 110px;
+}
+.albums2 {
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.album2-img {
+    background-image: url("images/drake.album.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 150px;
+}
+.album2-img1 {
+    background-image: url("images/frank.ocean.album.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 150px;
+}
+.buttomrow {
+    background-color: lightblue;
+}
+/* Bottom Row */
+ 
+  
 
+  
+  
+  
+  
+  
