@@ -19,7 +19,7 @@
     width: 300px;
 }
 .album1-img {
-    background-image: url("images/pnd.album.png");
+    background-image: url("images/pnd_album.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,7 +28,7 @@
     height: 150px;
 }
 .album1-img1 {
-    background-image: url("images/summer.walker.album.png");
+    background-image: url("images/summer_walker_album.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -50,7 +50,7 @@
     margin: 0 auto;
 }
 .album2-img {
-    background-image: url("images/drake.album.jpg");
+    background-image: url("images/drake_album.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,7 +59,7 @@
     height: 150px;
 }
 .album2-img1 {
-    background-image: url("images/frank.ocean.album.jpeg");
+    background-image: url("images/frank_ocean_album.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -67,12 +67,47 @@
     width: 150px;
     height: 150px;
 }
+/* Bottom Row */
 .buttomrow {
     background-color: lightblue;
 }
-/* Bottom Row */
- 
-  
+.socials1 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 150px;
+}
+.insta {
+
+}
+.tt {
+
+}
+.socials2 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 150px;
+.twit {
+
+}
+.pin {
+
+}
+
+.brushes {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 150px;
+}
+}
 
   
   
