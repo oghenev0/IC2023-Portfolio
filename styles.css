@@ -69,44 +69,80 @@
 }
 /* Bottom Row */
 .buttomrow {
-    background-color: lightblue;
+    /* background-color: lightblue;   */
+display: flex;
+justify-content: space-evenly;
 }
 .socials1 {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-color: rebeccapurple; */
-    width: 150px;
-    height: 150px;
+    /* background-color: pink; */
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex-direction: row;
+    margin-right:75px;
+    margin-left:0px ;
+    width: 300px;
+    height: 115px;
+  
 }
 .insta {
-
-}
-.tt {
-
-}
-.socials2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-color: rebeccapurple; */
-    width: 150px;
-    height: 150px;
+    /* background-color: orange; */
+    width: 75px;
+    height: 75px;
+}
+.tt {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rebeccapurple;  */
+    width: 75px;
+    height: 75px;
+}
 .twit {
-
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     /* background-color: blue; */
+    width: 75px;
+    height: 75px;
 }
 .pin {
-
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: pink; */
+    width: 75px;
+    height: 75px;
 }
 
 .brushes {
+    display: flex;
+    flex-direction: row;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: yellow;  */
+    width: 450px;
+    height: 130px;
+}
+.project {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-color: rebeccapurple; */
-    width: 150px;
-    height: 150px;
+     /* background-color:olive;  */
+    width: 125px;
+    height: 125px;
 }
+.project2 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     /* background-color: purple;  */
+    width: 125px;
+    height: 110px;
 }
 
   
